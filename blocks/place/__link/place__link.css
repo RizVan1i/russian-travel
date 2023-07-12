@@ -1,0 +1,11 @@
+.place__link {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  text-decoration: underline;
+  color: #fff;
+}
+.place__link:hover {
+  color: rgb(15, 160, 22);
+  transition: color 0.5s linear 0.5s;
+}

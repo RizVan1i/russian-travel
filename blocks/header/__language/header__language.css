@@ -1,0 +1,8 @@
+.header__language {
+  color: #fff;
+  text-decoration: none;
+}
+.header__language:hover {
+  color: rgb(15, 160, 22);
+  transition: color 0.5s linear 0.5s;
+}

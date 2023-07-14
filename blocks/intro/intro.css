@@ -1,6 +1,5 @@
 .intro {
   min-width: 690px;
-  height: 100%;
   display: flex;
   flex-direction: column;
   font-family: Inter;

@@ -2,12 +2,13 @@
   display: flex;
   list-style-type: none;
   color: #fff;
-  gap: 32px;
+  gap: 18px;
   padding: 0;
   margin: 0;
 }
 @media screen and (max-width: 767px) {
   .footer__links {
+    gap: 32px;
     flex-direction: column;
   }
 }

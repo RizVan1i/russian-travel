@@ -4,7 +4,12 @@
  height: 740px;
  position: absolute;
  background: #2A2C2f;
- opacity: 0.30000001192092896;
+ opacity: 0.3;
+}
+.cover__overlay:hover{
+  opacity: 0.8;
+  background: #2A2C2F;
+  transition: linear 1.5s;
 }
 @media screen and (max-width: 1279px) {
  .cover__overlay {

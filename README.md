@@ -19,4 +19,4 @@
 
 **Ссылка на прект**
 
-* [Ссылка на проект в Github](https://RizVan1i.github.io/russian-travel/index.html)
+* [Ссылка на проект в Github](https://RizVan1i.github.io/russian-travel/index)

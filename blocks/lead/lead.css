@@ -1,6 +1,5 @@
 .lead {
   min-width: 984px;
-  max-height: 1005px;
   display: flex;
   flex-direction: column;
   font-family: Inter;
@@ -16,12 +15,10 @@
 @media screen and (max-width: 1023px) {
   .lead {
     min-width: 768px;
-    margin-top: 48px;
   }
 }
 @media screen and (max-width: 767px) {
   .lead {
     min-width: 320px;
-    margin-top: 48px;
   }
 }

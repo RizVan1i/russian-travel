@@ -3,9 +3,6 @@
   max-height: 740px;
   width: 100%;
   margin: 92px auto 0;
-  background: url(../../images/cover-trains.jpg) no-repeat;
-  background-size: cover;
-  position: relative;
 }
 @media screen and (max-width: 1279px) {
   .cover {

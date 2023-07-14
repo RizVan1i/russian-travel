@@ -6,7 +6,7 @@
   line-height: 18px;
 }
 .footer__link:hover {
-  color: rgb(15, 160, 22);
+  opacity: 0.8;
   transition: color 0.5s linear 0.5s;
 }
 @media screen and (max-width: 767px) {

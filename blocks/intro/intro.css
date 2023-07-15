@@ -3,13 +3,12 @@
   display: flex;
   flex-direction: column;
   font-family: Inter;
-  margin-top: 113px;
-  padding: 0 421px 0 169px;
+  margin-top: 92px;
+  padding: 0 442px 0 148px;
   color: #fff;
 }
 @media screen and (max-width: 1279px) {
   .intro {
-    margin-top: 92px;
     padding: 0 286px 0 48px;
   }
 }
